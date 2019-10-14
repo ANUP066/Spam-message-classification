@@ -1,0 +1,3 @@
+python cleanData.py
+python train.py
+pyhton test.py
